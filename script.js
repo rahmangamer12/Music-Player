@@ -55,7 +55,7 @@ const music_list = [
         img : 'Images/ar5.jpeg',
         name : 'Ya Nabi Salam',
         artist : 'Meher Zain',
-        music : 'Music/ya-nabi-salam-alayka.mp3'
+        music : 'music/ya-nabi-salam-alayka.mp3'
     }
 ];
 
