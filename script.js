@@ -36,7 +36,7 @@ const music_list = [
     {
         img : 'Images/ar2.jpeg',
         name : 'Mohhabat Kiya Hai',
-        artist : 'Junaid Jamshed',
+        artist : 'junaid Jamshed',
         music : 'music/mohabbat-kya-hai.mp3'
     },
     {
@@ -55,7 +55,7 @@ const music_list = [
         img : 'Images/ar5.jpeg',
         name : 'Ya Nabi Salam',
         artist : 'Meher Zain',
-        music : 'music/ya-nabi-salam-alayka.mp3'
+        music : 'Music/ya-nabi-salam-alayka.mp3'
     }
 ];
 
