@@ -26,6 +26,7 @@ const music_list = [
         name : 'End Of Life',
         artist : 'Junaid Jamshed',
         music : 'music/end-of-life.mp3'
+
     },
     {
         img : 'Images/ar1.jpeg',
@@ -55,7 +56,7 @@ const music_list = [
         img : 'Images/ar5.jpeg',
         name : 'Ya Nabi Salam',
         artist : 'Meher Zain',
-        music : 'music/ya-nabi-salam-alayka.mp3'
+        music : 'Music/ya-nabi-salam-alayka.mp3'
     }
 ];
 
